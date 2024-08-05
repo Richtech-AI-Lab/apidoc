@@ -1,7 +1,5 @@
 # API Workflows
 
-[TOC]
-
 ## 1. Login
 1. Call [```/v1/auth/login```](https://richtech-ai-lab.github.io/apidoc/#api-Auth-LoginUser). 
 
