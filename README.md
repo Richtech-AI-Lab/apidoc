@@ -29,4 +29,3 @@
 3. Read stage object using [```v1/stage/:caseId/:stageType```](https://richtech-ai-lab.github.io/apidoc/#api-Stage-ReadStageByCaseIdAndStageType).
 4. Get **tasks** array from the stage object.
 5. Interate through the array, read task object using [```v1/task/:taskId```](https://richtech-ai-lab.github.io/apidoc/#api-Task-ReadTaskById).
-
